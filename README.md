@@ -1,4 +1,4 @@
-# STATS 607 — Project 2: Prediction-Based Monte Carlo (ADEMP)
+# STATS 607 — Project 2: Prediction-Based Monte Carlo
 
 Implements Algorithm 1 (Fortini–Petrone, 2023) for prediction-based sampling of the **prior** and **posterior** laws of exchangeable sequences, with two tracks:
 - **DP baseline** (Pólya sequence),
